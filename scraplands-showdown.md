@@ -4,6 +4,8 @@ Scraplands Showdown is a post-apocalyptic vehicle racing and combat game. Each p
 
 ### Playing Scraplands Showdown
 
+Scraplands Showdown uses the Cadence Wargame System core rules, which can be found at [Cadence.Games](https://cadence.games).
+
 Scraplands Showdown is best played on a 3ft x 3ft or larger sized area set up to form a race track.
 
 The models in Scraplands represent heavily modified cars with makeshift weapons and armour. Models around the 1:64 scale similar, to die cast model cars, are the best scale for this game. These models are referred to throughout this module as **cars**.
