@@ -38,13 +38,13 @@ Not all missions in Scraplands are races, as the cars may also take part in an A
 
 #### Action: Move
 
-Each time one of your cars performs a Move action it may move up to its Movement attribute in inches directly forward, or 1 inch backward, making 1 pivot of up to 45 degrees at any point during the action. You may not move over any other car at any time.
+Each time one of your cars performs a Move action it may move up to its Movement attribute +d6 in inches directly forward, or 1 inch backward, and you may make 1 pivot of up to 45 degrees at any point during the action. You may not move over any other car at any time.
 
 If at any point during your move you move into base contact with another car your movement ends and both cars must make a control check as explained below. If you take a Move action whilst in contact with another car, you must pivot so that you can move away from the vehicle, this does not cause a control check.
 
 #### Action: Advance
 
-When you perform an Advance action you first determine how far you will travel based on how hard you wish to push your car by performing 1 to 3 boosts. For each boost you must roll a d6, adding the value to your total
+When you perform an Advance action you first determine how far you will travel and how many pivots you may make based on how hard you wish to push your car, done by performing 1 to 3 boosts. For each boost you must roll a d6, adding the value to the to the total distance you will move. For each roll of a 1 you must make a control check and you must move the full distance rolled. For each dice rolled you may make 1 pivot of up to 45 degrees, so long as you travel at least 1 inch between each pivot.
 
 #### Action: Coasting
 
@@ -101,11 +101,11 @@ Players build their team by selecting a number of cars from the list below and u
 
 | Car                | Cmd | Mov | Skl | Def | Tgh | HP  | Special Rules         | Points |
 | :----------------- | :-: | :-: | :-: | :-: | :-: | :-: | :---------------------| :----: |
-| Wreck              |  5  |  5" |  5+ |  4+ |  2  |  4  | Ramshackle            | 12     |
-| Runner             |  6  |  6" |  5+ |  3+ |  3  |  5  |                       | 18     |
+| Wreck              |  5  |  4" |  5+ |  4+ |  2  |  4  | Ramshackle            | 12     |
+| Runner             |  6  |  5" |  5+ |  3+ |  3  |  5  |                       | 18     |
 | Hotrod             |  6  |  7" |  5+ |  3+ |  3  |  5  | Fast                  | 25     |
 | Buggy              |  6  |  5" |  5+ |  4+ |  2  |  5  | Off-road              | 16     |
-| Truck              |  6  |  5" |  5+ |  3+ |  4  |  6  | Sturdy                | 28     |
+| Truck              |  6  |  4" |  5+ |  3+ |  4  |  6  | Sturdy                | 28     |
 
 ### Upgrades
 
@@ -139,8 +139,8 @@ Players build their team by selecting a number of cars from the list below and u
 
 | Abilities | Details | Points |
 | :-------- | :------ | :----: |
-| Boost | One use only. This car moves 18 inches forward following the rules for a move action. This action costs 1 Command Point and must be taken immediately after a Move action. | 4 |
-| Drift | This car may move its full Movement Rate in inches following the rules for a move action, then make a single 90 degree pivot at the end of the movement. This action costs 1 Command Point and must be taken immediately after a Move Action. | 3 |
+| Boost | One use only. This car moves 18 inches forward following the rules for a move action. This action costs 2 Command Points and must be taken immediately after a Move action. | 4 |
+| Drift | This car may move up to 8 inches directly forward, following the rules for a Move action, then make a single 90 degree pivot at the end of the movement. This action costs 1 Command Point and must be taken immediately after a Move Action. | 3 |
 | J-Turn | This car moves backwards 3 inches then rotates 180 degrees. This counts as taking a Move action and costs 1 Command Point. | 2 |
 
 ## Special Rules
@@ -149,7 +149,7 @@ The following special rules apply in games of Scraplands Showdown.
 
 | Special Rules | Effect |
 | :------------ | :----- |
-| Fast | You may add a second boost without making a control check during an Advance Action. |
+| Fast | You may reroll boost rolls of 1. |
 | Off-road | You may make a free pivot at the start of an Advance action. |
 | Sturdy | You may re-roll the d6 to determine the number of hits in a control check. |
 | Ramshackle | This car gains +1 to its Defence rolls against control check hits. |
