@@ -48,7 +48,7 @@ When you perform an Advance action you first determine how far you will travel a
 
 #### Action: Coasting
 
-When activating a car with 1 Command Point, if you fail the test to use the Command Point you may make a Move Action but only moving up to 2 inches directly forward instead of losing the Command Point.
+When activating a car with 1 Command Point, if you fail the test to use the Command Point you may make a Move Action but only moving up to 3 inches directly forward instead of losing the Command Point.
 
 ### Ramming
 
@@ -85,7 +85,7 @@ Any terrain with the destructible keyword counts as having Defence of 4+, Toughn
 
 Ramps are a special type of terrain that allows your cars to make large jumps. Ramps should have a marked area where cars can move onto the ramp, and moving into any other part of a ramp is treated as moving into solid terrain.
 
-When a car moves into contact with the ramp, the move action it is doing immediately ends. The car then moves up to 12 inches directly forward, ignoring any intervening terrain or cars until the end of the movement. If the car cannot be placed due to solid terrain it is removed from the game as it is wrecked.
+When a car moves into contact with the ramp, the action it is doing immediately ends. The car then moves 12 inches directly forward, ignoring any intervening terrain or cars until the end of the movement. If the car cannot be placed due to solid terrain it is removed from the game as it is wrecked.
 
 At the end of the cars movement it takes a control check.
 
@@ -101,10 +101,10 @@ Players build their team by selecting a number of cars from the list below and u
 
 | Car                | Cmd | Mov | Skl | Def | Tgh | HP  | Special Rules         | Points |
 | :----------------- | :-: | :-: | :-: | :-: | :-: | :-: | :---------------------| :----: |
-| Wreck              |  5  |  4" |  5+ |  4+ |  2  |  4  | Ramshackle            | 12     |
+| Wreck              |  6  |  4" |  5+ |  4+ |  2  |  4  | Ramshackle            | 12     |
 | Runner             |  6  |  5" |  5+ |  3+ |  3  |  5  |                       | 18     |
 | Hotrod             |  6  |  7" |  5+ |  3+ |  3  |  5  | Fast                  | 25     |
-| Buggy              |  6  |  5" |  5+ |  4+ |  2  |  5  | Off-road              | 16     |
+| Buggy              |  6  |  5" |  5+ |  4+ |  3  |  4  | Off-road              | 15     |
 | Truck              |  6  |  4" |  5+ |  3+ |  4  |  6  | Sturdy                | 28     |
 
 ### Upgrades
@@ -114,13 +114,13 @@ Players build their team by selecting a number of cars from the list below and u
 | Weapon                    | Rng | Att | Dmg | Prc | Special Rules                 | Points |
 | :------------------------ | :-: | :-: | :-: | :-: | :---------------------------- | :----: |
 | Light Machine Gun         | 10" | 5   |  3  |  0  | Arc (Front)                   | 3      |
-| Twin Light Machine Guns   | 10" | 7   |  3  |  0  | Arc (Front)                   | 4      |
-| Heavy Machine Gun         | 12" | 6   |  4  |  1  | Arc (Front)                   | 6      |
-| Twin Heavy Machine Guns   | 12" | 7   |  4  |  1  | Arc (Front)                   | 7      |
+| Twin Light Machine Guns   | 10" | 6   |  3  |  0  | Arc (Front)                   | 4      |
+| Heavy Machine Gun         | 12" | 5   |  4  |  1  | Arc (Front)                   | 6      |
+| Twin Heavy Machine Guns   | 12" | 6   |  4  |  1  | Arc (Front)                   | 7      |
 | Heavy Cannon              | 16" | 4   |  5  |  1  | Arc (Front), Rending (1)      | 5      |
-| Minigun                   | 12" | 7   |  4  |  1  | Arc (Front), Rapid Fire (2)   | 9      |
+| Minigun                   | 12" | 7   |  3  |  1  | Arc (Front), Rapid Fire (2)   | 9      |
 | Rocket Launcher           | 12" | 5   |  6  |  3  | Arc (Front), Disrupt, Volley  | 11     |
-| Flamethrower              | 3"  | 10  |  1  |  1  | Arc (Front), Torrent, Disrupt | 5      |
+| Flamethrower              | 3"  | 10  |  2  |  1  | Arc (Front), Torrent, Disrupt | 5      |
 | Caltrops                  | 3"  | 3   |  3  |  0  | Arc (Rear), Disrupt           | 1      |
 
 #### Upgrades 
