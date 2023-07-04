@@ -44,9 +44,7 @@ If at any point during your move you move into base contact with another car you
 
 #### Action: Advance
 
-When you perform an Advance action you follow the same rules as a normal move action. However the distance and number of pivots your are permitted depends on how hard you want to push your car by adding boosts. A boost adds either 4 inches or a 45 degree pivot to your allowed movement in your advance action, however you must always move at least 1 inch between pivots and must move forward.
-
-You may add up to 4 boosts in an advance action and declare how many you will do before moving. For each boost after the first you are required to take a control check.
+When you perform an Advance action you first determine how far you will travel based on how hard you wish to push your car by performing 1 to 3 boosts. For each boost you must roll a d6, adding the value to your total
 
 #### Action: Coasting
 
@@ -103,11 +101,11 @@ Players build their team by selecting a number of cars from the list below and u
 
 | Car                | Cmd | Mov | Skl | Def | Tgh | HP  | Special Rules         | Points |
 | :----------------- | :-: | :-: | :-: | :-: | :-: | :-: | :---------------------| :----: |
-| Wreck              |  5  |  8" |  5+ |  4+ |  2  |  4  | Ramshackle            | 12     |
-| Runner             |  6  |  10"|  5+ |  3+ |  3  |  5  |                       | 18     |
-| Hotrod             |  6  |  11"|  5+ |  3+ |  3  |  5  | Fast                  | 25     |
-| Buggy              |  6  |  9" |  5+ |  4+ |  2  |  5  | Off-road              | 16     |
-| Truck              |  6  |  9" |  5+ |  3+ |  4  |  6  | Sturdy                | 28     |
+| Wreck              |  5  |  5" |  5+ |  4+ |  2  |  4  | Ramshackle            | 12     |
+| Runner             |  6  |  6" |  5+ |  3+ |  3  |  5  |                       | 18     |
+| Hotrod             |  6  |  7" |  5+ |  3+ |  3  |  5  | Fast                  | 25     |
+| Buggy              |  6  |  5" |  5+ |  4+ |  2  |  5  | Off-road              | 16     |
+| Truck              |  6  |  5" |  5+ |  3+ |  4  |  6  | Sturdy                | 28     |
 
 ### Upgrades
 
