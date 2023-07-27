@@ -82,7 +82,7 @@ Terrain in Scraplands comes in the following types: Solid, Dangerous, Rough, Des
 
 ### Mines
 
-You may place mine tokens around the track, or these may be placed by cars with a mine dropper. These should be no larger than 25mm circles. If any car moves within 1 inch of the mine it explodes and is removed from the battlefield. Any car within an inch of the token when it explodes takes d6 hits as though hit by a weapon with Damage 5,and Piercing 2.
+You may place mine tokens around the track, or these may be placed by cars with a mine dropper. These should be no larger than 25mm circles. If any car moves within 1 inch of the marker the mine explodes and is removed from the battlefield. Any car within 2 inches of the token when it explodes takes 3 Control Checks.
 
 ## Building a Team
 
@@ -102,35 +102,36 @@ Players build their team by selecting a number of cars from the list below and u
 
 #### Weapons
 
-| Weapon                    | Rng | Att | Dmg | Prc | Special Rules                 | Points |
-| :------------------------ | :-: | :-: | :-: | :-: | :---------------------------- | :----: |
-| Light Machine Gun         | 10" | 5   |  3  |  0  | Arc (Front)                   | 3      |
-| Twin Light Machine Guns   | 10" | 6   |  3  |  0  | Arc (Front)                   | 4      |
-| Heavy Machine Gun         | 12" | 5   |  4  |  1  | Arc (Front)                   | 6      |
-| Twin Heavy Machine Guns   | 12" | 6   |  4  |  1  | Arc (Front)                   | 7      |
-| Heavy Cannon              | 16" | 4   |  5  |  1  | Arc (Front), Rending (1)      | 5      |
-| Minigun                   | 12" | 7   |  3  |  1  | Arc (Front), Rapid Fire (2)   | 9      |
-| Rocket Launcher           | 12" | 5   |  6  |  3  | Arc (Front), Disrupt, Volley  | 11     |
-| Flamethrower              | 3"  | 10  |  2  |  1  | Arc (Front), Torrent, Disrupt | 5      |
-| Caltrops                  | 3"  | 3   |  3  |  0  | Arc (Rear), Disrupt           | 1      |
+| Weapon                    | Rng | Att | Dmg | Prc | Special Rules                         | Points |
+| :------------------------ | :-: | :-: | :-: | :-: | :------------------------------------ | :----: |
+| Light Machine Gun         | 10" | 6   |  3  |  0  | Arc (Front)                           | 2      |
+| Twin Light Machine Guns   | 10" | 6   |  3  |  0  | Accurate, Arc (Front)                 | 3      |
+| Heavy Machine Gun         | 12" | 6   |  4  |  1  | Arc (Front)                           | 4      |
+| Twin Heavy Machine Guns   | 12" | 6   |  4  |  1  | Accurate, Arc (Front)                 | 9      |
+| Heavy Cannon              | 12" | 4   |  5  |  1  | Arc (Front), Rending (1)              | 5      |
+| Minigun                   | 12" | 10  |  4  |  1  | Arc (Front), Volley                   | 10     |
+| Rocket Launcher           | 12" | 5   |  6  |  3  | Arc (Front), Disrupt, Destructive (2) | 12     |
+| Flamethrower              | 3"  | 10  |  3  |  0  | Arc (Front), Torrent, Disrupt         | 6      |
+| Caltrops                  | 3"  | 3   |  3  |  0  | Arc (Rear), Disrupt                   | 1      |
 
 #### Upgrades 
 
 | Upgrades  | Benefit | Points |
 | :-------- | :------ | :----: |
-| Armour | Gain the Resilient Special Rule (Re-roll failed Defence Rolls of 1) | 4 |
+| Built to last | Gain the Resilient Special Rule (Re-roll failed Defence Rolls) | 5 |
+| Armour Plates | Increase the cars Toughness by 1. | 5 |
 | Elite Driver | One per team only. Improve the cars Skill attribute to 4+. | 6 |
-| Mine Dropper | One use only, if this car makes an attack action, instead of attacking with a regular weapon this car may place a mine marker in its rear arc. It may not place this token within 1 inch of an enemy car. |
+| Mine Dropper | One use only, if this car makes an attack action, instead of attacking with a regular weapon this car may place a mine marker in its rear arc 2 inches from the car. It may not place this token within 1 inch of an enemy car. | 3 |
 | Ram | Damage from a failed control check when rammed by this car has a Piercing attribute of 2. | 2 |
 | Spikes | Cars that must take a control check for collisions with this car take d6+1 hits instead of d6. | 2 |
-| Tank Tracks | This car may re-roll the d6 for how many hits a control check causes and has it's Movement Rate reduced by 2. This car ignores the effects of dangerous terrain and gains +1 to its Toughness. | 10 |
+| Tank Tracks | This car may re-roll the d6 for how many hits a control check causes and has it's Movement Rate reduced by 1. This car also ignores the effects of dangerous terrain. | 12 |
 | Turret | One per car only. Remove the Arc (Front) special rule from one weapon on this car. | 6 |
 
 #### Abilities
 
 | Abilities | Details | Points |
 | :-------- | :------ | :----: |
-| Boost | One use only. This car moves 18 inches forward following the rules for a move action. This action costs 2 Command Points and must be taken immediately after a Move action. | 4 |
+| Boost | One use only. This car moves 18 inches forward following the rules for a move action. This action costs 2 Command Points and is the only action that can be taken during that activation. | 5 |
 | Drift | This car may move up to 8 inches directly forward, following the rules for a Move action, then make a single 90 degree pivot at the end of the movement. This action costs 1 Command Point and must be taken immediately after a Move Action. | 3 |
 | J-Turn | This car moves backwards 3 inches then rotates 180 degrees. This counts as taking a Move action and costs 1 Command Point. | 2 |
 
@@ -140,7 +141,7 @@ The following special rules apply in games of Scraplands Showdown.
 
 | Special Rules | Effect |
 | :------------ | :----- |
-| Fast | You may reroll boost rolls of 1. |
+| Fast | You may re-roll one boost roll of 1 each round. |
 | Off-road | You may make a free pivot at the start of an Advance action. |
 | Sturdy | You may re-roll the d6 to determine the number of hits in a control check. |
 | Ramshackle | This car gains +1 to its Defence rolls against control check hits. |
