@@ -2,13 +2,17 @@
 
 Scraplands Showdown is a post-apocalyptic vehicle racing and combat game. Each player assembles a team of cars, customised with upgrades, weapons, and armour, and competes to out-race and out-fight their opponents in a brutal Showdown.
 
-### Playing Scraplands Showdown
 
-Scraplands Showdown uses the Cadence Wargame System core rules, which can be found at [Cadence.Games](https://cadence.games).
 
-Scraplands Showdown is best played on a 3ft x 3ft or larger sized area set up to form a race track.
+
+
+## Playing Scraplands Showdown
+
+Scraplands Showdown uses the **Cadence Wargame System** core rules, which can be found at [Cadence.Games](https://cadence.games).
 
 The models in Scraplands represent heavily modified cars with makeshift weapons and armour. Models around the 1:64 scale similar, to die cast model cars, are the best scale for this game. These models are referred to throughout this module as **cars**.
+
+Scraplands Showdown is best played on a 3ft x 3ft or larger sized area.
 
 ### Racing
 
@@ -32,19 +36,27 @@ A race mission ends at the end of any round after which a car has crossed the fi
 
 ### Arena Battles
 
-Not all missions in Scraplands are races, as the cars may also take part in an Arena battle. These missions follow the normal rules for activation order and deployment.
+Not all missions in Scraplands are races, as the cars may also take part in an Arena battle. These missions follow the normal rules for activation order and deployment as found in the Cadence Core Rules.
+
+### Facing and Arcs
+
+Cars in Scraplands have a forward-facing direction, typically the direction the miniature is facing. By extension, there is also an opposite backward-facing direction for the car. Each car divides the battlefield around it into four 90-degree zones, called arcs, centered on the centre of the model. The front arc is aligned with the car's forward-facing direction, the rear arc is aligned with the backward-facing direction, and the left and right side arcs are to the cars's left and right, respectively.
+
+To determine which arc an enemy car is in, it is considered to be in the front-most possible arc. If a car is partially in more than one arc then the front arc takes priority, followed by the side arcs, with the rear arc being the lowest priority. 
 
 ### Car Movement
 
 #### Action: Move
 
-Each time one of your cars performs a Move action it may move up to its Movement attribute +d6 in inches directly forward, or 1 inch backward, and you may make 1 pivot of up to 45 degrees at any point during the action. You may not move over any other car at any time.
+Each time one of your cars performs a Move action it may move up to its Movement attribute +d6 in inches directly forward, or 3 inches backward, and you may add 1 pivot of up to 45 degrees at any point during the action. If any rule permits you to perform more than 1 pivot, you must always move a minimum of 1 inch between each pivot. You may not move over any other car at any time.
 
-If at any point during your move you move into base contact with another car your movement ends and both cars must make a control check as explained below. If you take a Move action whilst in contact with another car, you must pivot so that you can move away from the vehicle, this does not cause a control check.
+If at any point during your move you move into base contact with another car your movement ends and both cars must make a control check as explained below. If you take a Move action whilst in contact with another car, you must pivot so that you can move away from the vehicle, however this does not trigger a control check.
 
 #### Action: Advance
 
-When you perform an Advance action you first determine how far you will travel and how many pivots you may make based on how hard you wish to push your car, done by performing 1 to 3 boosts. For each boost you must roll a d6, adding the value to the to the total distance you will move. For each roll of a 1 you must make a control check and you must move the full distance rolled. For each dice rolled you may make 1 pivot of up to 45 degrees, so long as you travel at least 1 inch between each pivot.
+When you perform an Advance action you first determine how far you will travel and how many pivots you may make based on how hard you wish to push your car, done by performing 1 to 3 boosts. For each boost you must roll a d6, adding the value to the to the total distance you will move. For each roll of a 1 you must make a control check. You must move the full distance rolled. For each boost you may make 1 pivot of up to 45 degrees, so long as you travel at least 1 inch between each pivot.
+
+For each boost you perform you may add a **boost marker** next to your car, these remain until the next time you activate your car, until then if you are the target of an attack you may remove one or more of these markers to re-roll failed Defence Rolls.
 
 #### Action: Coasting
 
@@ -54,44 +66,25 @@ When activating a car with 1 Command Point, if you fail the test to use the Comm
 
 When you move into an enemy car you may declare this as a deliberate attempt to ram if you have moved at least 6 inches during that action. To do this you must spend 1 Command Point, any cars that you have collided with must take 3 control checks instead of the normal 1 for a collision.
 
-### Dodging
-
-When a car moves into contact with you you may choose to dodge them by spending 1 Command Point. If you do so you are not required to make a control check and may move your car up to 1 inch in any direction so long as it doesn't bring you into contact with another car or any terrain.
-
 ### Control Checks
 
 At times you may be at risk of losing control of your car; when being attacked, pushing your speed, or colliding with the terrain. When asked to perform a control check you make a Skill Roll: if you pass the Skill Roll nothing happens, if you fail the Skill Roll then the following happens:
 
-- Take d6 hits as though hit with a Damage 3 weapon, making Defence Rolls as normal. You take d6 hits regardless of how many cars or pieces of terrain you are in contact with. When required by a rule to roll multiple control checks the damage is added together before rolling Defence.
+- Take d6 hits as though hit with a Damage 3, Piercing 0 weapon - making Defence and Counter Rolls as normal. You take d6 hits regardless of how many cars or pieces of terrain you are in contact with.
 - If a control check causes your car to lose any hit points your activation immediately ends and your opponent may either rotate your car up to 45 degrees or move you 1 inch in any direction. If this move brings you into contact with terrain or any cars not originally hit this will trigger additional control checks.
 
 ### Terrain
 
 Terrain in Scraplands comes in the following types: Solid, Dangerous, Rough, Destructible, and Ramps.
 
-#### Solid Terrain
-
-Your car may not move over any terrain with the solid keyword. If any move you make brings you into contact with solid terrain your activation immediately ends and you make a control check.
-
-#### Dangerous
-
-If your car moves over dangerous terrain you roll 1 control check for each move or advance action that includes moving through the terrain. If the shape of the terrain does not allow you to place your car part way through the terrain, you may only move through the terrain if you have sufficient movement to completely move past it, otherwise it is treated as Solid terrain.
-
-#### Destructible
-
-Any terrain with the destructible keyword counts as having Defence of 4+, Toughness of 3, and 1 Hit Point. If reduced to 0 Hit Points it is removed from the table. Destructible terrain is also usually Solid or Dangerous.
-
-#### Ramps
-
-Ramps are a special type of terrain that allows your cars to make large jumps. Ramps should have a marked area where cars can move onto the ramp, and moving into any other part of a ramp is treated as moving into solid terrain.
-
-When a car moves into contact with the ramp, the action it is doing immediately ends. The car then moves 12 inches directly forward, ignoring any intervening terrain or cars until the end of the movement. If the car cannot be placed due to solid terrain it is removed from the game as it is wrecked.
-
-At the end of the cars movement it takes a control check.
+- **Solid Terrain**: Your car may not move over any terrain with the **solid** keyword. If any move you make brings you into contact with solid terrain your activation immediately ends and you make a control check.
+- **Dangerous**: If your car moves over **dangerous** terrain you roll 1 control check for each move or advance action that includes moving through the terrain. If the shape of the terrain does not allow you to place your car part way through the terrain, you may only move through the terrain if you have sufficient movement to completely move past it, otherwise it is treated as Solid terrain.
+- **Destructible**: Any terrain with the **destructible** keyword works like any other car, though it does not activate and cannot move. It has a Defence of 4+, Toughness of 3, and 1 Hit Point. If reduced to 0 Hit Points it is removed from the table. Destructible terrain is also usually Solid or Dangerous.
+- **Ramps**: Ramps are a special type of terrain that allows your cars to make large jumps. Ramps should have a marked area where cars can move onto the ramp, and moving into any other part of a ramp is treated as moving into solid terrain. When a car moves into contact with the ramp, the action it is doing immediately ends. The car then moves 12 inches directly forward, ignoring any intervening terrain or cars until the end of the movement, it then takes 1 Control Check. If the car cannot be placed due to solid terrain it is removed from the game as it is wrecked.
 
 ### Mines
 
-You may place mine tokens around the track, or these may be placed by cars with a mine dropper. These should be no larger than 30mm circles. If any car moves within 1 inch of the mine it explodes and is removed from the battlefield. Any car within an inch of the token when it explodes takes d6 hits as though hit by a weapon with Damage 5,and Piercing 2.
+You may place mine tokens around the track, or these may be placed by cars with a mine dropper. These should be no larger than 25mm circles. If any car moves within 1 inch of the mine it explodes and is removed from the battlefield. Any car within an inch of the token when it explodes takes d6 hits as though hit by a weapon with Damage 5,and Piercing 2.
 
 ## Building a Team
 
@@ -101,11 +94,11 @@ Players build their team by selecting a number of cars from the list below and u
 
 | Car                | Cmd | Mov | Skl | Def | Tgh | HP  | Special Rules         | Points |
 | :----------------- | :-: | :-: | :-: | :-: | :-: | :-: | :---------------------| :----: |
-| Wreck              |  6  |  4" |  5+ |  4+ |  2  |  4  | Ramshackle            | 12     |
-| Runner             |  6  |  5" |  5+ |  3+ |  3  |  5  |                       | 18     |
-| Hotrod             |  6  |  7" |  5+ |  3+ |  3  |  5  | Fast                  | 25     |
-| Buggy              |  6  |  5" |  5+ |  4+ |  3  |  4  | Off-road              | 15     |
-| Truck              |  6  |  4" |  5+ |  3+ |  4  |  6  | Sturdy                | 28     |
+| Wreck              |  6  |  4" |  5+ |  4+ |  3  |  4  | Ramshackle            | 12     |
+| Runner             |  6  |  5" |  5+ |  3+ |  4  |  5  |                       | 18     |
+| Hotrod             |  6  |  7" |  5+ |  3+ |  4  |  5  | Fast                  | 25     |
+| Buggy              |  6  |  5" |  5+ |  4+ |  4  |  4  | Off-road              | 15     |
+| Truck              |  6  |  4" |  5+ |  3+ |  5  |  6  | Sturdy                | 28     |
 
 ### Upgrades
 
