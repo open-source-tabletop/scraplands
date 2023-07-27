@@ -38,12 +38,6 @@ A race mission ends at the end of any round after which a car has crossed the fi
 
 Not all missions in Scraplands are races, as the cars may also take part in an Arena battle. These missions follow the normal rules for activation order and deployment as found in the Cadence Core Rules.
 
-### Facing and Arcs
-
-Cars in Scraplands have a forward-facing direction, typically the direction the miniature is facing. By extension, there is also an opposite backward-facing direction for the car. Each car divides the battlefield around it into four 90-degree zones, called arcs, centered on the centre of the model. The front arc is aligned with the car's forward-facing direction, the rear arc is aligned with the backward-facing direction, and the left and right side arcs are to the cars's left and right, respectively.
-
-To determine which arc an enemy car is in, it is considered to be in the front-most possible arc. If a car is partially in more than one arc then the front arc takes priority, followed by the side arcs, with the rear arc being the lowest priority. 
-
 ### Car Movement
 
 #### Action: Move
@@ -61,6 +55,10 @@ For each boost you perform you may add a **boost marker** next to your car, thes
 #### Action: Coasting
 
 When activating a car with 1 Command Point, if you fail the test to use the Command Point you may make a Move Action but only moving up to 3 inches directly forward instead of losing the Command Point.
+
+#### Targets
+
+Cars may only target enemy cars that are over an inch away but otherwise may choose any enemy car as a target.
 
 ### Ramming
 
