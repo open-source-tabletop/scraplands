@@ -10,7 +10,7 @@ Scraplands Showdown is a post-apocalyptic vehicle racing and combat game. Each p
 
 Scraplands Showdown uses the **Cadence Wargame System** core rules, which can be found at [Cadence.Games](https://cadence.games).
 
-The models in Scraplands represent heavily modified cars with makeshift weapons and armour. Models around the 1:64 scale similar, to die cast model cars, are the best scale for this game. These models are referred to throughout this module as **cars**.
+The models in Scraplands represent heavily modified cars with makeshift weapons and armour. Models around the 1:64 scale similar, to die cast model cars, are the best scale for this game. These models are referred to throughout this module as **cars**, all cars count as having the **vehicle** special rule.
 
 Scraplands Showdown is best played on a 3ft x 3ft or larger sized area.
 
@@ -28,7 +28,7 @@ In race missions, cars activate in a specific order as determined below:
 
 #### Race Deployment
 
-At the start of each mission, the players will be required to place their cars on the table before the first round starts. Players roll-off then alternate placing their cars. The first player places a car touching, but behind, the starting line. The second car is then placed one inch behind the starting line, the next is placed 2 inches behind the start line and so on. The cars must be placed facing forward across the start line but may otherwise be placed anywhere along it. Alternatively, players may set up grid positions for the cars to be placed upon.
+At the start of each mission, the players will be required to place their cars on the table before the first round starts. Players roll-off then alternate placing one car, after which they roll-off again, repeating this until every car has been placed. The first player places a car touching, but behind, the starting line. The second car is then placed one inch behind the starting line, the next is placed 2 inches behind the start line and so on. The cars must be placed facing forward across the start line but may otherwise be placed anywhere along it. Alternatively, players may set up grid positions for the cars to be placed upon.
 
 #### Finishing a Race
 
@@ -42,7 +42,7 @@ Not all missions in Scraplands are races, as the cars may also take part in an A
 
 #### Action: Move
 
-Each time one of your cars performs a Move action it may move up to its Movement attribute +d6 in inches directly forward, or 3 inches backward, and you may add 1 pivot of up to 45 degrees at any point during the action. If any rule permits you to perform more than 1 pivot, you must always move a minimum of 1 inch between each pivot. You may not move over any other car at any time.
+Each time one of your cars performs a Move action it adds d6 inches to its Movement attribute but doing so means it may not perform any pivots. Cars Movement is reduced to 3 inches when moving backward.
 
 If at any point during your move you move into base contact with another car your movement ends and both cars must make a control check as explained below. If you take a Move action whilst in contact with another car, you must pivot so that you can move away from the vehicle, however this does not trigger a control check.
 
