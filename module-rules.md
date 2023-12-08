@@ -34,7 +34,7 @@ When activating a car with 1 Command Point, if you fail the test to use the Comm
 
 ## Control Checks
 
-At times you may be at risk of losing control of your car; when being attacked, pushing your speed, or colliding with the terrain. When asked to perform a control check roll a d6, on a roll of a 1 you have failed the control check.
+At times you may be at risk of losing control of your car; when being attacked, pushing your speed, or colliding with the terrain. When asked to make a control check you make a Skill Roll, Roll a d6 which must equal or beat your Skill, if you fail:
 
 - You count as having taken a hit from a Damage 4 weapon, roll to counter this hit as normal.
 - If a control check causes your car to lose any hit points your activation immediately ends.
