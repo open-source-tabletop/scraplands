@@ -14,8 +14,6 @@ Players build their team by selecting a number of cars from the list below and u
 | Buggy              |  6  |  5" |  5+ |  4+ |  4  |  4  | Off-road              | 15     |
 | Truck              |  6  |  4" |  5+ |  3+ |  5  |  6  | Sturdy                | 28     |
 
-## Upgrades
-
 ### Weapons
 
 | Weapon                    | Rng | Att | Dmg | Prc | Special Rules                         | Points |
