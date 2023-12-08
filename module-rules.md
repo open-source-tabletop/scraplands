@@ -4,37 +4,25 @@
 
 ## Playing Scraplands Showdown
 
-Scraplands Showdown is best played on a 3ft x 3ft or larger sized area.
+Scraplands Showdown is best played on a 3ft x 3ft or larger sized area, though larger battlefields may allow for more interesting tracks to be made.
 
 ## Racing
 
-Some missions in Scraplands Showdown follow a race format. The terrain should be set up to form a loop track with a clear start and finish line. Players agree which direction the track flows and race to complete a set number of laps.
+Some missions in Scraplands Showdown follow a race format, having a different activation order to a non race mission. The terrain should be set up to form a looping track with a clear start and finish line. Players agree which direction the track flows and race to complete a set number of laps. In race missions, cars activate in a specific order as determined below:
 
-### Race Initiative
-
-In race missions, cars activate in a specific order as determined below:
-
-- The car with the most Command Points remaining activates next.
+- The car with the most Command Points remaining activates.
 - Cars with the same number of Command Points activate in order of race position. This is the car that is furthest ahead on the track and furthest ahead in laps (i.e. the shortest distance to travel to complete the race).
-- The car on the inside will activate before a car on the outside of the track in a tie.
-
-### Race Deployment
-
-At the start of each mission, the players will be required to place their cars on the table before the first round starts. Players roll-off then alternate placing one car, after which they roll-off again, repeating this until every car has been placed. The first player places a car touching, but behind, the starting line. The second car is then placed one inch behind the starting line, the next is placed 2 inches behind the start line and so on. The cars must be placed facing forward across the start line but may otherwise be placed anywhere along it. Alternatively, players may set up grid positions for the cars to be placed upon.
-
-### Finishing a Race
+- The car on the inside of a corner will activate before a car on the outside in a tie.
 
 A race mission ends at the end of any round after which a car has crossed the finish line on their final lap. The final positions of the cars are ranked from the car furthest past the finish line to the car furthest behind.
 
-## Arena Battles
-
-Not all missions in Scraplands are races, as the cars may also take part in an Arena battle. These missions follow the normal rules for activation order and deployment as found in the Cadence Core Rules.
-
 ## Car Movement
+
+
 
 ### Action: Move
 
-Each time one of your cars performs a Move action it may add d6 inches to its Movement attribute but doing so means it may not perform any pivots. A car's Movement is reduced to 3 inches when moving backward.
+Each time one of your cars performs a Move action it may add d6 inches to its Movement attribute if it makes no pivots. A car's Movement is reduced to 2 inches when moving backward.
 
 If at any point during your move you move into base contact with another car your movement ends and both cars must make a control check as explained below. If you take a Move action whilst in contact with another car, you must pivot so that you can move away from the vehicle, however this does not trigger a control check.
 
@@ -42,20 +30,16 @@ If at any point during your move you move into base contact with another car you
 
 When you perform an Advance action you do not move your normal Move attribute in inches, instead you roll 3d6 and take the two highest rolls as your Movement attribute. If you roll any 1s, then you must make a control check as explained below.
 
-### Action: Coasting
+### Coasting
 
 When activating a car with 1 Command Point, if you fail the test to use the Command Point you may make a Move Action but only moving up to 3 inches directly forward instead of losing the Command Point.
-
-### Targets
-
-Cars may only target enemy cars that are over an inch away but otherwise may choose any enemy car as a target.
 
 ## Control Checks
 
 At times you may be at risk of losing control of your car; when being attacked, pushing your speed, or colliding with the terrain. When asked to perform a control check roll a d6, on a roll of a 1 you have failed the control check.
 
-- Take d6 hits as though hit with a Damage 3, Piercing 0 weapon - making Defence and Counter Rolls as normal. You take d6 hits regardless of how many cars or pieces of terrain you are in contact with.
-- If a control check causes your car to lose any hit points your activation immediately ends and your opponent may either rotate your car up to 45 degrees or move you 1 inch in any direction. If this move brings you into contact with terrain or any cars not originally hit this will trigger additional control checks.
+- You count as having taken a hit from a Damage 4 weapon, roll to counter this hit as normal.
+- If a control check causes your car to lose any hit points your activation immediately ends.
 
 ## Terrain
 
