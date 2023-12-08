@@ -18,8 +18,6 @@ A race mission ends at the end of any round after which a car has crossed the fi
 
 ## Car Movement
 
-
-
 ### Action: Move
 
 Each time one of your cars performs a Move action it may add d6 inches to its Movement attribute if it makes no pivots. A car's Movement is reduced to 2 inches when moving backward.
@@ -43,16 +41,24 @@ At times you may be at risk of losing control of your car; when being attacked, 
 
 ## Terrain
 
-Terrain in Scraplands comes in the following types: Solid, Dangerous, Rough, Destructible, and Ramps.
+If your car collides with any terrain it cannot move through it's movement ends as though it hit another car and it takes a control check.
 
-- **Solid Terrain**: Your car may not move over any terrain with the **solid** keyword. If any move you make brings you into contact with solid terrain your activation immediately ends and you make a control check.
-- **Dangerous**: If your car moves over **dangerous** terrain you roll 1 control check for each move or advance action that includes moving through the terrain. If the shape of the terrain does not allow you to place your car part way through the terrain, you may only move through the terrain if you have sufficient movement to completely move past it, otherwise it is treated as Solid terrain.
-- **Destructible**: Any terrain with the **destructible** keyword works like any other car, though it does not activate and cannot move. It has a Defence of 4+, Toughness of 3, and 1 Hit Point. If reduced to 0 Hit Points it is removed from the table. Destructible terrain is also usually Solid or Dangerous.
-- **Ramps**: Ramps are a special type of terrain that allows your cars to make large jumps. Ramps should have a marked area where cars can move onto the ramp, and moving into any other part of a ramp is treated as moving into solid terrain. When a car moves into contact with the ramp, the action it is doing immediately ends. The car then moves 12 inches directly forward, ignoring any intervening terrain or cars until the end of the movement, it then takes 1 Control Check. If the car cannot be placed due to solid terrain it is removed from the game as it is wrecked.
+### Terrain Keyword: Dangerous
 
-## Mines
+If your car moves over **dangerous** terrain you roll 1 control check for each move or advance action that includes moving through the terrain. If the shape of the terrain does not allow you to place your car part way through the terrain, you may only move through the terrain if you have sufficient movement to completely move past it, otherwise it is treated as Solid terrain.
 
-You may place mine tokens around the track, or these may be placed by cars with a mine dropper. These should be no larger than 25mm circles. If any car moves within 1 inch of the marker the mine explodes and is removed from the battlefield. Any car within 3 inches of the token when it explodes takes a Control Check.
+### Terrain Keyword: Destructible
+
+Cars moving into destructiblthterrain make 1 control check, after they finish their move the terrain is removed from the table, If the terrain is also dangerous they make 2 control checks.
+
+### Ramps
+
+Ramps are a special type of terrain that allows your cars to make large jumps. Ramps should have a marked area where cars can move onto the ramp, and moving into any other part of a ramp is treated as moving into solid terrain. When a car moves into contact with the ramp, the action it is doing immediately ends. The car then moves 2D6 inches directly forward from the end of the ramp, ignoring any intervening terrain or cars until the end of the movement, it then takes 1 Control Check. If the car cannot be placed due to solid terrain it is removed from the game as it is wrecked.
+
+### Mines
+
+You may place mine tokens around the track, or these may be placed by cars with a mine dropper. These should be no larger than 25mm circles. If any car moves within 1 inch of the marker the mine explodes and is removed from the battlefield. Any car within 3 inches of the token when it explodes takes a
+3 control checks.
 
 ## Special Rules
 
@@ -60,8 +66,8 @@ The following special rules apply in games of Scraplands Showdown.
 
 | Special Rules | Effect |
 | :------------ | :----- |
-| Fast | You add all 3d6 to your Movement when making an Advance action, but each roll of 1 triggers a control check. |
+| Fast | You add all 3d6 to your Movement when making an Advance action, but every roll of 1 triggers a control check. |
 | Off-road | You may make a free pivot at the start of an Advance action. |
-| Sturdy | You may re-roll the d6 to determine the number of hits in a control check. |
+| Sturdy | You may re-roll Counter rolls in a control check. |
 | Ramshackle | This may re-roll Counter rolls of 1. |
 | Disrupt | Any car that fails a Defence roll against attacks from this weapon makes a control check, even if it does not lose any hit points. |
