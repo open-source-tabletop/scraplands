@@ -2,7 +2,7 @@
 
 ---
 
-To build your Scraplands team you decide how many cars each player must take, typically this is 3-6. Players then equip their cars with weapons and upgrades. Each player may spend up to 250 credits on each car, paying for the car itself, then any weapons and upgrades. In addition each player has a further 100 credits to spend for each car in their team but this may be used to buy weapons and upgrades for any of their vehicles. When adding upgrades to a car you may not spend more on upgrades than the initial cost of the car.
+To build your Scraplands team you decide how many cars each player must take, typically this is 3-6. Players then equip their cars with weapons and upgrades. Each player may spend up to 250 credits on each car, paying for the car itself, then any weapons and upgrades. In addition each player has a further 100 credits to spend for each car in their team but this may be used to buy weapons and upgrades for any of their vehicles.
 
 ## Cars
 
