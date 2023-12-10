@@ -35,7 +35,6 @@ Players build their team by selecting a number of cars from the list below and u
 | Built to last | Gain the Resilient Special Rule (Re-roll failed Defence Rolls) | 55 |
 | Armour Plates | Increase the cars Toughness by 1. | 50 |
 | Elite Driver | One per team only. Improve the cars Skill attribute to 4+. | 60 |
-| Mine Dropper | One use only, if this car makes an attack action, instead of attacking with a regular weapon this car may place a mine marker in its rear arc 2 inches from the car. It may not place this token within 1 inch of an enemy car. | 25 |
 | Ram | When this car collides with an enemy car while moving forward that car takes 1 additonal control check. | 20 |
 | Spikes | Cars that must take a control check for collisions with this car take d6+1 hits instead of d6. | 20 |
 | Turret | One per car only. Remove the Arc (Front) special rule from one weapon on this car. | 55 |
