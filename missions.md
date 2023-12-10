@@ -2,7 +2,9 @@
 
 ---
 
-## Team Race
+## Race Missions
+
+### Team Race
 
 Finishing positions are (almost) all that matters in this team based head to head.
 
@@ -25,7 +27,7 @@ Each player will also score 1 point for each enemy vehicle destroyed.
 
 -----
 
-## Showdown
+### Showdown
 
 Teams battle it out in this team race where actions and stunts are as important as final positions.
 
@@ -53,7 +55,9 @@ Cars will score additional points each time they achieve the following:
 
 -----
 
-## Arena Battle
+## Battle Missions
+
+### Arena Battle
 
 #### Battlefield
 
