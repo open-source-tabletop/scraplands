@@ -2,7 +2,7 @@
 
 ---
 
-Players build their team by selecting a number of cars from the list below and upgrading them with weapons, armour, and abilities, and then paying the cost in credits for them. When adding upgrades to a car you may not spend more on upgrades than the initial cost of the car. Games of Scraplands Showdown are best played at 1000 credits for small games, 1500 credits for medium sized games, and 2000 credits for large games.
+Players build their team by selecting a number of cars from the list below and upgrading them with weapons, armour, and abilities, and then paying the cost in credits for them. When adding upgrades to a car you may not spend more on upgrades than the initial cost of the car. Games of Scraplands are best played at 1000 credits for small games, 1500 credits for medium sized games, and 2000 credits for large games.
 
 ## Cars
 

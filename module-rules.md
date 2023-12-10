@@ -1,14 +1,14 @@
-# Scraplands Showdown Rules
+# Scraplands Rules
 
 ---
 
-## Playing Scraplands Showdown
+## Playing Scraplands
 
-Scraplands Showdown is best played on a 3ft x 3ft or larger sized area, though larger battlefields may allow for more interesting tracks to be made.
+Scraplands is best played on a 3ft x 3ft or larger sized area, though larger battlefields may allow for more interesting tracks to be made.
 
 ## Racing
 
-Some missions in Scraplands Showdown follow a race format, having a different activation order to a non race mission. The terrain should be set up to form a looping track with a clear start and finish line. Players agree which direction the track flows and race to complete a set number of laps. In race missions, cars activate in a specific order as determined below:
+Some missions in Scraplands follow a race format, having a different activation order to a non race mission. The terrain should be set up to form a looping track with a clear start and finish line. Players agree which direction the track flows and race to complete a set number of laps. In race missions, cars activate in a specific order as determined below:
 
 - The car with the most Command Points remaining activates.
 - Cars with the same number of Command Points activate in order of race position. This is the car that is furthest ahead on the track and furthest ahead in laps (i.e. the shortest distance to travel to complete the race).
@@ -62,7 +62,7 @@ You may place mine tokens around the track, or these may be placed by cars with 
 
 ## Special Rules
 
-The following special rules apply in games of Scraplands Showdown.
+The following special rules apply in games of Scraplands.
 
 | Special Rules | Effect |
 | :------------ | :----- |
